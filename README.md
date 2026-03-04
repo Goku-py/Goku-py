@@ -1,5 +1,15 @@
 # 💫 About Me:
-🔭 I’m currently working on building a Home Lab with VMware/Proxmox for malware analysis.<br><br>👯 I’m looking to collaborate on CTF (Capture The Flag) teams and Python security scripting.<br><br>🤝 I’m looking for help with Advanced Reverse Engineering and Kernel-level debugging.<br><br>🌱 I’m currently learning SOC Analyst workflows, Network Forensics, and Linux Hardening.<br><br>💬 Ask me about Windows Optimization for Gaming, Network Protocols (TCP/IP), and System Latency.<br><br>⚡ Fun fact I treat system latency like a security vulnerability—I hunt it down and eliminate it for competitive esports.
+💻 I’m currently exploring the intersection of Data Science and Software Engineering, focusing on building efficient, secure, and scalable systems.
+
+🧠 I’m passionate about leveraging Python, Machine Learning, and data-driven problem-solving to design intelligent applications and optimize workflows.
+
+🤝 I’m looking for opportunities to collaborate on projects involving AI-driven automation, data analytics, and backend development to strengthen my practical skills as an SDE.
+
+🌱 I’m actively learning advanced algorithms, database management, and system design principles to enhance my ability to write optimized and maintainable code.
+
+💬 Ask me about Windows optimization for gaming, network protocol analysis (TCP/IP), or system latency tuning — areas where I apply performance-driven thinking to complex systems.
+
+⚡ Fun fact: I treat system latency like a performance bug — analyzing, profiling, and eliminating it with the same precision as debugging real-world software issues.
 
 
 ## 🌐 Socials:
