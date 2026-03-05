@@ -1,9 +1,9 @@
 # 💫 About Me:
-💻 I’m currently exploring the intersection of Data Science and Software Engineering, focusing on building efficient, secure, and scalable systems.
+💻 I’m currently exploring the intersection of Data Science and Software Engineering,and Cybersecurity focusing on building efficient, secure, and scalable systems.
 
-🧠 I’m passionate about leveraging Python, Machine Learning, and data-driven problem-solving to design intelligent applications and optimize workflows.
+🧠 I’m passionate about leveraging Python,and data-driven problem-solving to design intelligent applications and optimize workflows.
 
-🤝 I’m looking for opportunities to collaborate on projects involving AI-driven automation, data analytics, and backend development to strengthen my practical skills as an SDE.
+🤝 I’m looking for opportunities to collaborate on projects involving AI-driven automation,and backend development to strengthen my practical skills as an SDE.
 
 🌱 I’m actively learning advanced algorithms, database management, and system design principles to enhance my ability to write optimized and maintainable code.
 
