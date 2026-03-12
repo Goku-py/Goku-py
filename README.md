@@ -1,17 +1,3 @@
-# 💫 About Me:
-💻 I’m currently exploring the intersection of Data Science and Software Engineering,and Cybersecurity focusing on building efficient, secure, and scalable systems.
-
-🧠 I’m passionate about leveraging Python,and data-driven problem-solving to design intelligent applications and optimize workflows.
-
-🤝 I’m looking for opportunities to collaborate on projects involving AI-driven automation,and backend development to strengthen my practical skills as an SDE.
-
-🌱 I’m actively learning advanced algorithms, database management, and system design principles to enhance my ability to write optimized and maintainable code.
-
-💬 Ask me about Windows optimization for gaming, network protocol analysis (TCP/IP), or system latency tuning — areas where I apply performance-driven thinking to complex systems.
-
-⚡ Fun fact: I treat system latency like a performance bug — analyzing, profiling, and eliminating it with the same precision as debugging real-world software issues.
-
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/@goku.py) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Goku7xis) 
 
