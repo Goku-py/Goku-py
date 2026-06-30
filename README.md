@@ -1,26 +1,26 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=200&section=header&text=PRATIK%20BEHERA&fontSize=48&fontColor=00FF9C&fontAlignY=38&desc=Software%20Engineer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=58&descColor=00FF9C&animation=fadeIn&fontFamily=JetBrains+Mono" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:0F172A&height=200&section=header&text=PRATIK%20BEHERA&fontSize=48&fontColor=38BDF8&fontAlignY=38&desc=Software%20Engineer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=58&descColor=38BDF8&animation=fadeIn&fontFamily=JetBrains+Mono" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=640&height=120&lines=%24+whoami;%3E+Pratik+Behera+%E2%80%94+Software+Engineer;%24+cat+specialization.txt;%3E+Backend+Development+%2B+Data+Analysis;%24+ls+~%2Fprojects;%3E+AI+Code+Mentor%2C+Keylogger%2C+Port+Scanner;%24+echo+%24OPEN_TO;%3E+Software+Developer+%7C+Analyst" />
-
-<br/>
-
-![Degree](https://img.shields.io/badge/Degree-B.Tech_CSE(DS)-0D1117?style=flat-square&color=00FF9C&labelColor=0D1117)
-![University](https://img.shields.io/badge/University-ACE_Engineering_College-0D1117?style=flat-square&color=00FF9C&labelColor=0D1117)
-![Location](https://img.shields.io/badge/Location-Hyderabad%2C_Telangana-0D1117?style=flat-square&color=00FF9C&labelColor=0D1117)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=38BDF8&background=0F172A&center=true&vCenter=true&width=640&height=120&lines=%24+whoami;%3E+Pratik+Behera+%E2%80%94+Software+Engineer;%24+cat+specialization.txt;%3E+Backend+Development+%2B+Data+Analysis;%24+ls+~%2Fprojects;%3E+AI+Code+Mentor%2C+Keylogger%2C+Port+Scanner;%24+echo+%24OPEN_TO;%3E+Software+Developer+%7C+Analyst" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF9C&color=0D1117)](https://linkedin.com/in/pratikbehera21)
-[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF9C&color=0D1117)](mailto:propratik087@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF9C&color=0D1117)](https://github.com/Goku-py)
+![Degree](https://img.shields.io/badge/Degree-B.Tech_CSE(DS)-0F172A?style=flat-square&color=38BDF8&labelColor=0F172A)
+![University](https://img.shields.io/badge/University-ACE_Engineering_College-0F172A?style=flat-square&color=38BDF8&labelColor=0F172A)
+![Location](https://img.shields.io/badge/Location-Hyderabad%2C_Telangana-0F172A?style=flat-square&color=38BDF8&labelColor=0F172A)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Goku-py&style=for-the-badge&color=00FF9C&label=PROFILE+VIEWS&labelColor=0D1117)
-![Followers](https://img.shields.io/github/followers/Goku-py?style=for-the-badge&color=00FF9C&labelColor=0D1117&label=FOLLOWERS)
-![Stars](https://img.shields.io/github/stars/Goku-py?style=for-the-badge&color=00FF9C&labelColor=0D1117&label=STARS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8&color=0F172A)](https://linkedin.com/in/pratikbehera21)
+[![Email](https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=38BDF8&color=0F172A)](mailto:propratik087@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8&color=0F172A)](https://github.com/Goku-py)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Goku-py&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS&labelColor=0F172A)
+![Followers](https://img.shields.io/github/followers/Goku-py?style=for-the-badge&color=38BDF8&labelColor=0F172A&label=FOLLOWERS)
+![Stars](https://img.shields.io/github/stars/Goku-py?style=for-the-badge&color=38BDF8&labelColor=0F172A&label=STARS)
 
 </div>
 
@@ -55,10 +55,10 @@ OPEN_TO  : Software Developer | Analyst
 
 <div align="center">
 
-![Backend](https://img.shields.io/badge/Backend_Development-0D1117?style=flat-square&color=00FF9C&labelColor=0D1117)
-![DataAnalysis](https://img.shields.io/badge/Data_Analysis-0D1117?style=flat-square&color=00FF9C&labelColor=0D1117)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0D1117?style=flat-square&color=00FF9C&labelColor=0D1117)
-![FullStack](https://img.shields.io/badge/Full_Stack-0D1117?style=flat-square&color=00FF9C&labelColor=0D1117)
+![Backend](https://img.shields.io/badge/Backend_Development-0F172A?style=flat-square&color=38BDF8&labelColor=0F172A)
+![DataAnalysis](https://img.shields.io/badge/Data_Analysis-0F172A?style=flat-square&color=38BDF8&labelColor=0F172A)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0F172A?style=flat-square&color=38BDF8&labelColor=0F172A)
+![FullStack](https://img.shields.io/badge/Full_Stack-0F172A?style=flat-square&color=38BDF8&labelColor=0F172A)
 
 </div>
 
@@ -162,7 +162,7 @@ Software Developer / Analyst opportunities.
 
 <div align="center">
 
-[![Education](https://img.shields.io/badge/B.Tech_CSE(Data_Science)-ACE_Engineering_College-0D1117?style=for-the-badge&color=00FF9C&labelColor=0D1117)](https://github.com/Goku-py)
+[![Education](https://img.shields.io/badge/B.Tech_CSE(Data_Science)-ACE_Engineering_College-0F172A?style=for-the-badge&color=38BDF8&labelColor=0F172A)](https://github.com/Goku-py)
 
 </div>
 
@@ -172,10 +172,10 @@ Software Developer / Analyst opportunities.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Goku-py&show_icons=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=C9D1D9&border_color=00FF9C&hide_border=false" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Goku-py&background=0D1117&border=00FF9C&stroke=00FF9C&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&sideLabels=C9D1D9&dates=C9D1D9&currStreakNum=ffffff&sideNums=ffffff" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Goku-py&show_icons=true&bg_color=0F172A&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&border_color=38BDF8&hide_border=false" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Goku-py&background=0F172A&border=38BDF8&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=C9D1D9&dates=C9D1D9&currStreakNum=ffffff&sideNums=ffffff" width="48%"/>
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goku-py&layout=compact&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9&border_color=00FF9C&hide_border=false" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goku-py&layout=compact&bg_color=0F172A&title_color=38BDF8&text_color=C9D1D9&border_color=38BDF8&hide_border=false" width="48%"/>
 
 </div>
 
@@ -195,7 +195,7 @@ Software Developer / Analyst opportunities.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Goku-py&bg_color=0D1117&color=00FF9C&line=00FF9C&point=ffffff&area=true&area_color=00FF9C&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Goku-py&bg_color=0F172A&color=38BDF8&line=38BDF8&point=ffffff&area=true&area_color=38BDF8&hide_border=true" width="100%"/>
 
 </div>
 
@@ -248,12 +248,12 @@ open_to:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF9C&color=0D1117)](https://linkedin.com/in/pratikbehera21)
-[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF9C&color=0D1117)](mailto:propratik087@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF9C&color=0D1117)](https://github.com/Goku-py)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8&color=0F172A)](https://linkedin.com/in/pratikbehera21)
+[![Email](https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=38BDF8&color=0F172A)](mailto:propratik087@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8&color=0F172A)](https://github.com/Goku-py)
 
 <i>"Build it, break it, secure it."</i>
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0D1117,100:0D1117&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0F172A,100:0F172A&height=120&section=footer" width="100%"/>
 
 </div>
