@@ -1,264 +1,305 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&height=200&color=0F1419&section=header&text=Pratik%20Behera&fontSize=46&fontColor=FFB300&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20%7C%20Backend%20%7C%20Security%20%7C%20Python&descSize=16&descColor=E6EDF3&descAlignY=60&stroke=FFB300&strokeWidth=2" alt="Pratik Behera banner" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/demo?lines=%24+whoami+-%3E+Pratik+Behera&lines=%24+role+-%3E+Aspiring+Software+Engineer&lines=%24+stack+-%3E+Python+%7C+Flask+%7C+React+%7C+Docker&lines=%24+focus+-%3E+Backend+%26+App+Security&lines=%24+status+-%3E+Open+to+SDE+intern+%2F+new-grad+roles&font=Fira+Code&size=18&color=FFB300&background=0F1419&center=true&vCenter=true&width=760&height=170&duration=2500&pause=1000" alt="Typing SVG" />
-</p>
+<a href="https://github.com/Goku-py">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=120&section=header&text=Pratik%20Behera&fontSize=52&fontColor=F0A500&fontAlignY=60&desc=Backend%20Engineer%20%7C%20Security%20Enthusiast%20%7C%20AI%20Builder&descColor=E6EDF3&descSize=18&descAlignY=82&stroke=F0A500&strokeWidth=1" />
+</a>
 
-## `$ cat identity.txt`
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/B.Tech-Data_Science-FFB300?style=flat-square&labelColor=0F1419" alt="B.Tech" />
-  <img src="https://img.shields.io/badge/College-ACE_Engg-FFB300?style=flat-square&labelColor=0F1419" alt="ACE Engineering College" />
-  <img src="https://img.shields.io/badge/Class%20of-2027-FFB300?style=flat-square&labelColor=0F1419" alt="Class of 2027" />
-  <img src="https://img.shields.io/badge/CGPA-7.37-FF8F00?style=flat-square&labelColor=0F1419" alt="CGPA" />
-  <img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-FFB300?style=flat-square&labelColor=0F1419&logo=googlemaps&logoColor=E6EDF3" alt="Location" />
-</p>
+---
 
-## `$ ./connect.sh`
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/Goku-py"><img src="https://img.shields.io/badge/GitHub-Goku--py-FFB300?style=for-the-badge&logo=github&logoColor=0F1419&labelColor=161D26" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/pratikbehera21"><img src="https://img.shields.io/badge/LinkedIn-Pratik%20Behera-FFB300?style=for-the-badge&logo=linkedin&logoColor=0F1419&labelColor=161D26" alt="LinkedIn" /></a>
-  <a href="mailto:propratik087@gmail.com"><img src="https://img.shields.io/badge/Email-propratik087-FFB300?style=for-the-badge&logo=gmail&logoColor=0F1419&labelColor=161D26" alt="Email" /></a>
-  <a href="https://ai-mentor.up.railway.app"><img src="https://img.shields.io/badge/Live%20App-AI%20Mentor-FF8F00?style=for-the-badge&logo=vercel&logoColor=0F1419&labelColor=161D26" alt="Live App" /></a>
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=900&color=F0A500&background=0D111700&center=true&vCenter=true&multiline=true&width=720&height=130&lines=%24+whoami+--+Backend+Engineer+%26+Security+Enthusiast;%24+stack+--+Python+%7C+Flask+%7C+React+%7C+TypeScript+%7C+Docker;%24+building+--+AI-powered+coding+platform+%40+ai-mentor;%24+focus+--+App+Security+%7C+REST+APIs+%7C+CI%2FCD+Pipelines;%24+status+--+Open+to+Backend+%26+Security+Internships" />
+</a>
 
-## `$ gh profile stats`
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Goku-py?label=Followers&style=flat-square&color=FFB300&labelColor=0F1419&logoColor=E6EDF3" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Goku-py?label=Total%20Stars&style=flat-square&color=FFB300&labelColor=0F1419" alt="Stars" />
-  <img src="https://img.shields.io/github/repos/Goku-py?label=Public%20Repos&style=flat-square&color=FFB300&labelColor=0F1419" alt="Repos" />
-  <img src="https://img.shields.io/github/commits/Goku-py/AI-Mentor?label=AI-Mentor%20Commits&style=flat-square&color=FF8F00&labelColor=0F1419" alt="AI-Mentor commits" />
-</p>
+---
 
-## `$ cat about.md`
+<div align="center">
 
-B.Tech Data Science student (Class of 2027) building and shipping full-stack web apps with Python, Flask, React, and Docker. I care about backend depth and application security - hardening REST APIs, sandboxed code execution, and lightweight endpoint threat detection. Currently leveling up in backend engineering and open to intern / new-grad roles.
+![Degree](https://img.shields.io/badge/B.Tech-Data%20Science-F0A500?style=flat-square&logo=academia&logoColor=0D1117)
+![Location](https://img.shields.io/badge/Hyderabad%2C%20India-%F0%9F%8C%8F-F0A500?style=flat-square)
+
+</div>
+
+---
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pratik%20Behera-0D1117?style=for-the-badge&logo=linkedin&logoColor=F0A500&labelColor=0D1117&color=F0A500)](https://linkedin.com/in/pratikbehera21)
+[![GitHub](https://img.shields.io/badge/GitHub-Goku--py-0D1117?style=for-the-badge&logo=github&logoColor=F0A500&labelColor=0D1117&color=F0A500)](https://github.com/Goku-py)
+[![Email](https://img.shields.io/badge/Email-propratik087@gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=00BFA5&labelColor=0D1117&color=00BFA5)](mailto:propratik087@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Goku-py&color=F0A500&style=flat-square&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/Goku-py?label=Followers&style=flat-square&color=F0A500&logo=github&logoColor=0D1117)
+![GitHub stars](https://img.shields.io/github/stars/Goku-py?label=Total+Stars&style=flat-square&color=00BFA5&logo=github&logoColor=0D1117)
+
+</div>
+
+---
+
+## `$ cat about.txt`
+
+Backend-focused engineer with a security mindset — building production-grade APIs, AI-integrated platforms, and endpoint security tools. Comfortable shipping from localhost to CI/CD pipeline, with hands-on experience hardening REST APIs, containerizing full-stack apps with Docker, and wiring up LLM inference. Actively hunting internships where I can contribute to backend systems or application security at depth.
 
 ```bash
-ROLE="Aspiring Software Engineer"
-EXP="Student | B.Tech Data Science (Class of 2027)"
-DOMAIN=("Web Dev" "Automation" "Cybersecurity" "Backend")
-STACK=("Python" "Flask" "ReactJS" "TypeScript" "Docker" "PostgreSQL")
-OPEN_TO=("SDE Intern" "Backend" "FullStack" "Analyst" "Cybersecurity")
+{
+  ROLE       : "Backend Engineer + Security Enthusiast"
+  EXPERIENCE : "2+ years (self-taught + academic projects)"
+  DOMAIN     : "Backend Web Dev | Application Security | AI Tooling"
+  STACK      : "Python · Flask · React · TypeScript · Docker · PostgreSQL"
+  OPEN_TO    : "Backend Intern | Security Intern | Full-stack Intern"
+}
 ```
 
-## `$ ls ./stack`
+---
 
-<details open>
-<summary><b>Languages</b></summary>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,c,java,bash&theme=dark&perline=7" alt="Languages" />
-</p>
-</details>
+## `$ ls -la tech_stack/`
 
-<details open>
-<summary><b>Frameworks & Testing</b></summary>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flask,react,nodejs,express,fastapi,playwright,pytest&theme=dark&perline=7" alt="Frameworks" />
-</p>
-</details>
+<div align="center">
 
-<details open>
-<summary><b>Databases, DevOps & Tools</b></summary>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,sqlite,docker,githubactions,vercel,git,linux&theme=dark&perline=7" alt="Databases, DevOps & Tools" />
-</p>
-</details>
+**Languages & Runtimes**
 
-## `$ cat specialties.json`
+[![skillicons](https://skillicons.dev/icons?i=python,typescript,javascript,java,c,nodejs&theme=dark)](https://skillicons.dev)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Backend-Flask%20%7C%20FastAPI-FFB300?style=flat-square&labelColor=0F1419" alt="Backend" />
-  <img src="https://img.shields.io/badge/App%20Security-Rate%20Limiting%20%7C%20CORS-FFB300?style=flat-square&labelColor=0F1419" alt="App Security" />
-  <img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-FFB300?style=flat-square&labelColor=0F1419" alt="CI/CD" />
-  <img src="https://img.shields.io/badge/AI%20Integration-Gemini%20API-FFB300?style=flat-square&labelColor=0F1419" alt="AI Integration" />
-  <img src="https://img.shields.io/badge/REST%20API-Design%20%26%20Hardening-FFB300?style=flat-square&labelColor=0F1419" alt="REST API" />
-  <img src="https://img.shields.io/badge/Automation-psutil%20%7C%20IOC%20Detection-FFB300?style=flat-square&labelColor=0F1419" alt="Automation" />
-</p>
+**Frameworks & Libraries**
 
-## `$ cat expertise.tsv`
+[![skillicons](https://skillicons.dev/icons?i=flask,react,fastapi,express,pytest&theme=dark)](https://skillicons.dev)
+
+**DevOps & Cloud**
+
+[![skillicons](https://skillicons.dev/icons?i=docker,githubactions,linux,git,vercel,railway&theme=dark)](https://skillicons.dev)
+
+**Databases & ORM**
+
+[![skillicons](https://skillicons.dev/icons?i=postgresql,sqlite&theme=dark)](https://skillicons.dev)
+
+</div>
+
+---
+
+## `$ cat specialization.badges`
+
+<div align="center">
+
+![REST API](https://img.shields.io/badge/REST%20API%20Design-Advanced-F0A500?style=flat-square&logo=fastapi&logoColor=0D1117)
+![Application Security](https://img.shields.io/badge/App%20Security-Hardening%20%26%20Threat%20Detection-F0A500?style=flat-square&logo=springsecurity&logoColor=0D1117)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-00BFA5?style=flat-square&logo=githubactions&logoColor=0D1117)
+![Docker](https://img.shields.io/badge/Containers-Docker%20Multi--stage-00BFA5?style=flat-square&logo=docker&logoColor=0D1117)
+![AI Integration](https://img.shields.io/badge/AI%20Integration-Gemini%20API-F0A500?style=flat-square&logo=google&logoColor=0D1117)
+![Endpoint Security](https://img.shields.io/badge/Endpoint%20Security-EDR%20Simulation-F0A500?style=flat-square&logo=virustotal&logoColor=0D1117)
+![E2E Testing](https://img.shields.io/badge/Testing-pytest%20%2B%20Playwright-00BFA5?style=flat-square&logo=pytest&logoColor=0D1117)
+
+</div>
+
+---
+
+## `$ cat expertise_matrix.md`
 
 | Domain | Proficiency | Details |
-| --- | --- | --- |
-| Backend Development | Advanced | Flask / FastAPI REST APIs, auth, audit logging, per-IP rate limiting |
-| Full-Stack Web | Intermediate | React + TypeScript frontend, Flask backend, single Docker image, CI/CD |
-| Application Security | Intermediate | CORS, subprocess isolation, bot-defense middleware, Burp Suite, Wireshark, nmap |
-| DevOps / CI-CD | Intermediate | Docker, GitHub Actions, Railway / Render / Vercel, zero-downtime delivery |
-| Automation & Tooling | Intermediate | Python scripting, psutil process enumeration, IOC signature detection, Tkinter GUI |
-| Databases | Intermediate | PostgreSQL, SQLite, SQLAlchemy sessions + audit logging |
+|---|---|---|
+| Backend Engineering | ⬛⬛⬛⬛⬜ Advanced | Flask APIs, FastAPI, auth systems, rate limiting, audit logging |
+| Application Security | ⬛⬛⬛⬜⬜ Intermediate | Burp Suite, XSS/CSRF, subprocess isolation, CORS hardening |
+| DevOps / CI-CD | ⬛⬛⬛⬜⬜ Intermediate | Docker multi-stage builds, GitHub Actions, zero-downtime deploy |
+| AI / LLM Integration | ⬛⬛⬛⬜⬜ Intermediate | Gemini API, prompt engineering, Socratic hint generation |
+| Endpoint Threat Detection | ⬛⬛⬛⬜⬜ Intermediate | psutil, IOC signatures, JSON EDR simulation |
+| Database / ORM | ⬛⬛⬛⬜⬜ Intermediate | PostgreSQL, SQLite, SQLAlchemy, session management |
 
-## `$ cat projects/`
+---
+
+## `$ ls -la projects/`
 
 <details open>
-<summary><b>AI Code Mentor</b> &mdash; full-stack AI-powered coding platform</summary>
+<summary><strong>🔶 AI Code Mentor — Full-Stack AI Coding Platform</strong></summary>
 
-<p>
-  <a href="https://github.com/Goku-py/AI-Mentor">Source</a> &middot; <a href="https://ai-mentor.up.railway.app">Live</a>
-</p>
+<br/>
 
-Architected and shipped a full-stack AI-powered coding platform - React + TypeScript frontend, Flask backend, and a single Docker image bundling Python, Node.js, JDK, and GCC to support isolated sandboxed execution across 5 languages (Python, JavaScript, Java, C, C++). Integrated Google Gemini API to parse runtime exceptions, logic errors, and wrong outputs into line-specific Socratic hints without exposing solutions. Hardened the Flask REST API with per-IP rate limiting, CORS enforcement, subprocess isolation, and bot-defense middleware, backed by a pytest + Playwright suite and email/password auth with SQLAlchemy sessions and audit logging. Deployed on Railway with zero-downtime continuous delivery via GitHub Actions CI/CD.
+| Attribute | Value |
+|---|---|
+| **Stack** | Python · Flask · React · TypeScript · Docker · Gemini API · PostgreSQL · pytest · Playwright · GitHub Actions |
+| **Scale** | 55+ commits since Feb 2026 · 5-language sandboxed execution · Zero-downtime CI/CD |
+| **Live** | [ai-mentor.up.railway.app](https://ai-mentor.up.railway.app) |
+| **Repo** | [github.com/Goku-py/AI-Mentor](https://github.com/Goku-py/AI-Mentor) |
 
-| | |
-| --- | --- |
-| Stack | Python, Flask, ReactJS, TypeScript, Docker, Google Gemini API, SQLite/PostgreSQL, SQLAlchemy, pytest, Playwright, GitHub Actions |
-| Scale | 55+ commits since Feb 2026, 5-language sandboxed execution, live on Railway |
-| Impact | Zero-downtime CD, Socratic AI hints, hardened execution endpoints, E2E test coverage |
+- Architected and shipped a full-stack AI-powered coding platform — React + TypeScript frontend, Flask backend, single Docker image bundling Python, Node.js, JDK, and GCC for isolated sandboxed execution across 5 languages
+- Integrated Google Gemini API into a custom `analyzer.py` module — parses runtime exceptions and logic errors, returning line-specific Socratic hints without exposing solutions; full email+password auth with SQLAlchemy-backed user sessions and audit logging
+- Hardened the REST API with per-IP rate limiting, CORS enforcement, subprocess isolation, and bot-defense middleware; backed by pytest suite with mocked AI calls and Playwright E2E browser tests
+
 </details>
 
 <details>
-<summary><b>Keylogger Detection Tool</b> &mdash; lightweight endpoint threat detection</summary>
+<summary><strong>🔒 Keylogger Detection Tool — Endpoint Threat Detection Utility</strong></summary>
 
-<p>
-  <a href="https://github.com/Goku-py/Keylogger-Demostration">Source</a>
-</p>
+<br/>
 
-Built a lightweight endpoint threat detection utility using psutil to enumerate all live system processes in real time, cross-referencing each against a configurable IOC signature database to flag suspicious hook-based or polling-based keylogger behaviour with no external dependencies. Designed an extensible JSON-based IOC config schema that supports both process name matching and behavioural pattern detection, and engineered structured JSON threat report output with severity classification and process metadata (PID, path, detection rule) to streamline analyst triage - simulating a lightweight version of real-world EDR alert generation logic.
+| Attribute | Value |
+|---|---|
+| **Stack** | Python · psutil · JSON · Endpoint Security |
+| **Scale** | No external dependencies · Real-time process scanning · Structured SOC-style output |
+| **Repo** | [github.com/Goku-py/Keylogger-Demostration](https://github.com/Goku-py/Keylogger-Demostration) |
 
-| | |
-| --- | --- |
-| Stack | Python, psutil, JSON |
-| Scale | Real-time process enumeration, configurable IOC signature DB |
-| Impact | EDR-style alerting with severity + process metadata, zero external deps |
+- Built a lightweight endpoint threat detection utility using `psutil` to enumerate all live system processes in real-time, cross-referencing each against a configurable IOC signature database to flag suspicious keylogger behavior
+- Designed an extensible JSON-based IOC config schema supporting process name matching and behavioral pattern detection — simulating real-world EDR alert generation logic without code changes on analyst updates
+- Engineered structured JSON threat report output with severity classification, PID, path, and detection rule metadata to streamline analyst triage workflows aligned with standard SOC incident response procedures
+
 </details>
 
-<details>
-<summary><b>Port-Scanner-GUI</b> &mdash; fast TCP port scanner with live progress</summary>
+---
 
-<p>
-  <a href="https://github.com/Goku-py/Port-Scanner-GUI">Source</a>
-</p>
+## `$ cat experience.log`
 
-A fast and lightweight Tkinter TCP port scanner with live progress and export. Built for quick network reconnaissance and security triage - scans target hosts for open TCP ports, streams progress in real time, and exports results for further analysis. Fits a hands-on security-tooling workflow alongside nmap and Wireshark.
+**`2026-02 → Present`** — **Personal Project Lead** — *AI Code Mentor*
 
-| | |
-| --- | --- |
-| Stack | Python, Tkinter |
-| Scale | Lightweight single-binary GUI, live progress streaming |
-| Impact | Fast recon + export for security triage workflows |
-</details>
+- Architected full-stack platform with Flask backend + React/TypeScript frontend deployed on Railway
+- Implemented Docker multi-stage builds to bundle 4 runtimes (Python, Node.js, JDK, GCC) in a single image
+- Built GitHub Actions CI/CD pipeline with zero-downtime deployment and deterministic pytest + Playwright test suite
+- Hardened all execution endpoints with rate limiting, CORS policy, subprocess sandboxing, and bot-defense middleware
+- Tags: `Python` `Flask` `Docker` `TypeScript` `React` `PostgreSQL` `Gemini API` `CI/CD`
 
-## `$ git log --build`
+**`2025-06 → 2025-10`** — **Security Tools Developer** — *Keylogger Detection Tool (Personal)*
 
-<details open>
-<summary><b>Build &amp; project log</b> (reverse chronological)</summary>
+- Designed and shipped a standalone endpoint security utility with no external runtime dependencies
+- Engineered JSON-based IOC signature database schema for extensible threat pattern matching
+- Produced SOC-aligned structured threat reports with severity ratings and process metadata for analyst triage
+- Tags: `Python` `psutil` `Endpoint Security` `JSON` `Threat Detection`
 
-<strong>Mar 2026 &mdash; Keylogger Detection Tool</strong> <em>(solo)</em><br/>
-Built a psutil-based endpoint threat detector that enumerates live processes and cross-references them against a configurable IOC signature database; produced structured JSON threat reports with severity and process metadata for analyst triage.
-<p>
-  <img src="https://img.shields.io/badge/Python-FFB300?style=flat-square&labelColor=0F1419" alt="Python" />
-  <img src="https://img.shields.io/badge/psutil-FFB300?style=flat-square&labelColor=0F1419" alt="psutil" />
-  <img src="https://img.shields.io/badge/Endpoint_Security-FF8F00?style=flat-square&labelColor=0F1419" alt="Endpoint Security" />
-</p>
-
-<strong>Mar 2026 &mdash; Port-Scanner-GUI</strong> <em>(solo)</em><br/>
-Built a lightweight Tkinter TCP port scanner with live progress and export for fast network reconnaissance and security triage.
-<p>
-  <img src="https://img.shields.io/badge/Python-FFB300?style=flat-square&labelColor=0F1419" alt="Python" />
-  <img src="https://img.shields.io/badge/Tkinter-FFB300?style=flat-square&labelColor=0F1419" alt="Tkinter" />
-  <img src="https://img.shields.io/badge/Networking-FF8F00?style=flat-square&labelColor=0F1419" alt="Networking" />
-</p>
-
-<strong>Feb 2026 &mdash; AI Code Mentor</strong> <em>(solo, ongoing)</em><br/>
-Architected a full-stack AI coding platform with sandboxed 5-language execution, Gemini-powered Socratic hints, and a hardened Flask REST API (rate limiting, CORS, subprocess isolation, audit logging); shipped with GitHub Actions CI/CD over 55+ commits and a pytest + Playwright test suite.
-<p>
-  <img src="https://img.shields.io/badge/Python-FFB300?style=flat-square&labelColor=0F1419" alt="Python" />
-  <img src="https://img.shields.io/badge/Flask-FFB300?style=flat-square&labelColor=0F1419" alt="Flask" />
-  <img src="https://img.shields.io/badge/React-FFB300?style=flat-square&labelColor=0F1419" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-FFB300?style=flat-square&labelColor=0F1419" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Docker-FFB300?style=flat-square&labelColor=0F1419" alt="Docker" />
-  <img src="https://img.shields.io/badge/Gemini-FF8F00?style=flat-square&labelColor=0F1419" alt="Gemini" />
-  <img src="https://img.shields.io/badge/CI%2FCD-FF8F00?style=flat-square&labelColor=0F1419" alt="CI/CD" />
-</p>
-</details>
+---
 
 ## `$ cat achievements.md`
 
-<p align="center">
+<div align="center">
 
-| Achievement | Proof |
-| --- | --- |
-| Shipped a live AI-powered coding platform | <a href="https://ai-mentor.up.railway.app">ai-mentor.up.railway.app</a> |
-| 55+ commits shipped with automated CI/CD | <a href="https://github.com/Goku-py/AI-Mentor">github.com/Goku-py/AI-Mentor</a> |
-| Sandboxed execution across 5 languages in one Docker image | Python, JavaScript, Java, C, C++ |
-| TryHackMe - Pre-Security Path (Jan 2026) | Networking, Linux, Web Sec, SOC / blue team |
-| Vodafone VOIS - Browser-Based Attacks | XSS, CSRF, browser exploitation |
+| 🏆 Achievement | 📅 Date | 🔗 Proof |
+|---|---|---|
+| Shipped live AI platform — 55+ commits, zero-downtime CI/CD | Feb 2026 | [ai-mentor.up.railway.app](https://ai-mentor.up.railway.app) |
+| TryHackMe — Pre-Security Path Completed | Jan 2026 | TryHackMe Profile |
+| Vodafone VOIS — Browser-Based Attacks (XSS, CSRF) | 2025 | Certification |
+| Built production REST API with full security hardening | 2026 | [GitHub](https://github.com/Goku-py/AI-Mentor) |
 
-</p>
+</div>
 
-## `$ cat education.txt`
+---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/B.Tech-Data_Science-FFB300?style=for-the-badge&labelColor=0F1419&logo=googlescholar&logoColor=E6EDF3" alt="B.Tech" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/ACE_Engineering_College-Ghatkesar%2C%20Telangana-FF8F00?style=for-the-badge&labelColor=0F1419" alt="ACE Engineering College" />
-  <img src="https://img.shields.io/badge/CGPA-7.37-FFB300?style=for-the-badge&labelColor=0F1419" alt="CGPA" />
-  <img src="https://img.shields.io/badge/Graduating-2027-FFB300?style=for-the-badge&labelColor=0F1419" alt="Graduating 2027" />
-</p>
-<p align="center">
-  <sub>Intermediate - Science (MPC), 81% &middot; Gowtham Junior College, Telangana (2021-2023)</sub>
-</p>
+## `$ cat certifications.md`
 
-## `$ gh stats --all`
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Goku-py&show_icons=true&hide_border=true&count_private=true&bg_color=0F1419&title_color=FFB300&icon_color=FFB300&text_color=E6EDF3" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Goku-py&hide_border=true&background=0F1419&ring=FFB300&fire=FF8F00&currStreakLabel=FFB300&currStreakNum=E6EDF3&sideLabels=E6EDF3&sideNums=E6EDF3&dates=E6EDF3" alt="GitHub streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goku-py&layout=compact&hide_border=true&langs_count=8&bg_color=0F1419&title_color=FFB300&text_color=E6EDF3" alt="Top languages" />
-</p>
+![TryHackMe](https://img.shields.io/badge/TryHackMe-Pre--Security%20Path-F0A500?style=for-the-badge&logo=tryhackme&logoColor=0D1117)
+![Vodafone VOIS](https://img.shields.io/badge/Vodafone%20VOIS-Browser--Based%20Attacks-00BFA5?style=for-the-badge&logo=vodafone&logoColor=0D1117)
 
-## `$ gh activity-graph`
+</div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Goku-py&bg_color=0F1419&color=FFB300&line=FFB300&point=FF8F00&title_color=FFB300&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity graph" />
-</p>
+---
 
-## `$ gh summary-cards`
+## `$ cat github_analytics.sh`
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Goku-py&theme=monokai" alt="Profile details" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Goku-py&theme=monokai" alt="Repos per language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Goku-py&theme=monokai" alt="Most commit language" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Goku-py&theme=monokai" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Goku-py&theme=monokai" alt="Productive time" />
-</p>
+<div align="center">
 
-## `$ ./snake --animate`
+<img src="https://github-readme-stats.vercel.app/api?username=Goku-py&show_icons=true&theme=transparent&title_color=F0A500&icon_color=F0A500&text_color=E6EDF3&bg_color=0D1117&border_color=F0A500&ring_color=F0A500&hide_border=false" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Goku-py&theme=transparent&background=0D1117&ring=F0A500&fire=F0A500&currStreakLabel=F0A500&sideLabels=00BFA5&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=E6EDF3&border=F0A500" height="165"/>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Goku-py/Goku-py/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goku-py&layout=compact&theme=transparent&title_color=F0A500&text_color=E6EDF3&bg_color=0D1117&border_color=F0A500&langs_count=8" height="165"/>
 
-## `$ cat focus.yaml`
+</div>
+
+---
+
+## `$ github-profile-trophy --user Goku-py`
+
+<div align="center">
+
+[![trophies](https://github-profile-trophy.vercel.app/?username=Goku-py&theme=flat&no-bg=true&no-frame=false&column=7&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## `$ activity-graph --user Goku-py`
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Goku-py&bg_color=0D1117&color=F0A500&line=F0A500&point=00BFA5&area=true&area_color=F0A500&hide_border=false&border_color=F0A500)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## `$ profile-details --user Goku-py`
+
+<div align="center">
+
+[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Goku-py&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Goku-py&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Goku-py&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Goku-py&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Goku-py&theme=transparent&utcOffset=5.5)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+</div>
+
+---
+
+## `$ cat snake_animation.yml`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Goku-py/Goku-py/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Goku-py/Goku-py/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Goku-py/Goku-py/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+</div>
+
+---
+
+## `$ cat current_focus.yaml`
 
 ```yaml
-learning: "Backend development - system design, advanced API patterns, scalability"
-building: "AI Code Mentor - multi-language sandboxed code execution platform with AI hints"
-exploring: "Application security & EDR-style threat detection (psutil, IOC signatures)"
-open_to: ["SDE Intern", "Backend", "FullStack", "Analyst", "Cybersecurity"]
+learning:
+  - "Application Security deeper dive — OWASP Top 10, Burp Suite workflows"
+  - "FastAPI production patterns and async Python"
+  - "TryHackMe — Jr. Penetration Tester path"
+
+building:
+  - "AI Code Mentor — migrating deployment from Railway to Vercel/Koyeb"
+  - "Trading automation tools with Python + TradingView webhooks"
+
+exploring:
+  - "Competitive CTFs and security research challenges"
+  - "System design patterns for scalable backend APIs"
+
+open_to:
+  - "Backend Engineering Intern"
+  - "Security / AppSec Intern"
+  - "Full-Stack Intern (Python-heavy)"
+  - "Remote or Hyderabad-based roles"
 ```
 
-## `$ ./connect --social`
+---
 
-<p align="center">
-  <a href="https://github.com/Goku-py"><img src="https://img.shields.io/badge/GitHub-Goku--py-FFB300?style=for-the-badge&logo=github&logoColor=0F1419&labelColor=161D26" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/pratikbehera21"><img src="https://img.shields.io/badge/LinkedIn-Pratik%20Behera-FFB300?style=for-the-badge&logo=linkedin&logoColor=0F1419&labelColor=161D26" alt="LinkedIn" /></a>
-  <a href="mailto:propratik087@gmail.com"><img src="https://img.shields.io/badge/Email-propratik087-FFB300?style=for-the-badge&logo=gmail&logoColor=0F1419&labelColor=161D26" alt="Email" /></a>
-  <a href="https://ai-mentor.up.railway.app"><img src="https://img.shields.io/badge/Live%20App-AI%20Mentor-FF8F00?style=for-the-badge&logo=vercel&logoColor=0F1419&labelColor=161D26" alt="Live App" /></a>
-</p>
+## `$ connect --all`
 
-<p align="center"><sub>Ship secure. Ship simple. Ship often.</sub></p>
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=120&color=0F1419&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=FFB300&fontAlign=50&stroke=FFB300&strokeWidth=1" alt="footer" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-F0A500?style=for-the-badge&logo=linkedin&logoColor=0D1117&labelColor=F0A500)](https://linkedin.com/in/pratikbehera21)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-F0A500?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=F0A500)](https://github.com/Goku-py)
+[![Email](https://img.shields.io/badge/Email-propratik087@gmail.com-00BFA5?style=for-the-badge&logo=gmail&logoColor=0D1117&labelColor=00BFA5)](mailto:propratik087@gmail.com)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-F0A500?style=for-the-badge&logo=tryhackme&logoColor=0D1117&labelColor=F0A500)](https://tryhackme.com)
+
+<br/>
+
+> *"Build things that break. Fix things that matter. Ship things that last."*
+
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0D1117&height=80&section=footer&fontColor=F0A500&stroke=F0A500&strokeWidth=1" />
+
+</div>
