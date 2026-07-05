@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/Goku-py">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=120&section=header&text=Pratik%20Behera&fontSize=52&fontColor=F0A500&fontAlignY=60&desc=Backend%20Engineer%20%7C%20Security%20Enthusiast%20%7C%20AI%20Builder&descColor=E6EDF3&descSize=18&descAlignY=82&stroke=F0A500&strokeWidth=1" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=120&section=header&text=Pratik%20Behera&fontSize=52&fontColor=00ffc8&fontAlignY=60&desc=Backend%20Engineer%20%7C%20Security%20Enthusiast%20%7C%20AI%20Builder&descColor=E6EDF3&descSize=18&descAlignY=82&stroke=00ffc8&strokeWidth=1" />
 </a>
 
 </div>
@@ -11,7 +11,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=900&color=F0A500&background=0D111700&center=true&vCenter=true&multiline=true&width=720&height=130&lines=%24+whoami+--+Backend+Engineer+%26+Security+Enthusiast;%24+stack+--+Python+%7C+Flask+%7C+React+%7C+TypeScript+%7C+Docker;%24+building+--+AI-powered+coding+platform+%40+ai-mentor;%24+focus+--+App+Security+%7C+REST+APIs+%7C+CI%2FCD+Pipelines;%24+status+--+Open+to+Backend+%26+Security+Internships" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=900&color=00ffc8&background=0D111700&center=true&vCenter=true&multiline=true&width=720&height=130&lines=%24+whoami+--+Backend+Engineer+%26+Security+Enthusiast;%24+stack+--+Python+%7C+Flask+%7C+React+%7C+TypeScript+%7C+Docker;%24+building+--+AI-powered+coding+platform+%40+ai-mentor;%24+focus+--+App+Security+%7C+REST+APIs+%7C+CI%2FCD+Pipelines;%24+status+--+Open+to+Backend+%26+Security+Internships" />
 </a>
 
 </div>
@@ -20,8 +20,8 @@
 
 <div align="center">
 
-![Degree](https://img.shields.io/badge/B.Tech-Data%20Science-F0A500?style=flat-square&logo=academia&logoColor=0D1117)
-![Location](https://img.shields.io/badge/Hyderabad%2C%20India-%F0%9F%8C%8F-F0A500?style=flat-square)
+![Degree](https://img.shields.io/badge/B.Tech-Data%20Science-00BFA5?style=flat-square&logo=academia&logoColor=0D1117)
+![Location](https://img.shields.io/badge/Hyderabad%2C%20India-%F0%9F%8C%8F-00ffc8?style=flat-square)
 
 </div>
 
@@ -29,8 +29,8 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pratik%20Behera-0D1117?style=for-the-badge&logo=linkedin&logoColor=F0A500&labelColor=0D1117&color=F0A500)](https://linkedin.com/in/pratikbehera21)
-[![GitHub](https://img.shields.io/badge/GitHub-Goku--py-0D1117?style=for-the-badge&logo=github&logoColor=F0A500&labelColor=0D1117&color=F0A500)](https://github.com/Goku-py)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pratik%20Behera-0D1117?style=for-the-badge&logo=linkedin&logoColor=00ffc8&labelColor=0D1117&color=00ffc8)](https://linkedin.com/in/pratikbehera21)
+[![GitHub](https://img.shields.io/badge/GitHub-Goku--py-0D1117?style=for-the-badge&logo=github&logoColor=00ffc8&labelColor=0D1117&color=00ffc8)](https://github.com/Goku-py)
 [![Email](https://img.shields.io/badge/Email-propratik087@gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=00BFA5&labelColor=0D1117&color=00BFA5)](mailto:propratik087@gmail.com)
 
 </div>
@@ -39,8 +39,8 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Goku-py&color=F0A500&style=flat-square&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/Goku-py?label=Followers&style=flat-square&color=F0A500&logo=github&logoColor=0D1117)
+![Profile Views](https://komarev.com/ghpvc/?username=Goku-py&color=00ffc8&style=flat-square&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/Goku-py?label=Followers&style=flat-square&color=00ffc8&logo=github&logoColor=0D1117)
 ![GitHub stars](https://img.shields.io/github/stars/Goku-py?label=Total+Stars&style=flat-square&color=00BFA5&logo=github&logoColor=0D1117)
 
 </div>
@@ -153,6 +153,23 @@ Backend-focused engineer with a security mindset — building production-grade A
 
 </details>
 
+<details>
+<summary><strong>🌐 Port Scanner GUI — Multi-threaded TCP Port Scanner</strong></summary>
+
+<br/>
+
+| Attribute | Value |
+|---|---|
+| **Stack** | Python · Tkinter · Threading · TCP/IP |
+| **Scale** | Worker-pool scanning · Auto service labeling · CSV/JSON export |
+| **Repo** | [github.com/Goku-py/Port-Scanner-GUI](https://github.com/Goku-py/Port-Scanner-GUI) |
+
+- Built a fast, lightweight TCP port scanner with a clean Tkinter interface supporting target + port range input and live scan progress
+- Implemented worker-pool threading model for concurrent scanning across large port ranges with configurable thread count
+- Added auto-labeling of common services (HTTP, HTTPS, SSH, MySQL) and export to CSV/JSON for structured reporting
+
+</details>
+
 ---
 
 ## `$ cat experience.log`
@@ -204,10 +221,10 @@ Backend-focused engineer with a security mindset — building production-grade A
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Goku-py&show_icons=true&theme=transparent&title_color=F0A500&icon_color=F0A500&text_color=E6EDF3&bg_color=0D1117&border_color=F0A500&ring_color=F0A500&hide_border=false" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Goku-py&theme=transparent&background=0D1117&ring=F0A500&fire=F0A500&currStreakLabel=F0A500&sideLabels=00BFA5&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=E6EDF3&border=F0A500" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Goku-py&show_icons=true&theme=transparent&title_color=00ffc8&icon_color=00ffc8&text_color=E6EDF3&bg_color=0D1117&border_color=00ffc8&ring_color=00ffc8&hide_border=false" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Goku-py&theme=transparent&background=0D1117&ring=00ffc8&fire=00ffc8&currStreakLabel=00ffc8&sideLabels=00BFA5&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=E6EDF3&border=00ffc8" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goku-py&layout=compact&theme=transparent&title_color=F0A500&text_color=E6EDF3&bg_color=0D1117&border_color=F0A500&langs_count=8" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goku-py&layout=compact&theme=transparent&title_color=00ffc8&text_color=E6EDF3&bg_color=0D1117&border_color=00ffc8&langs_count=8" height="165"/>
 
 </div>
 
@@ -227,7 +244,7 @@ Backend-focused engineer with a security mindset — building production-grade A
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Goku-py&bg_color=0D1117&color=F0A500&line=F0A500&point=00BFA5&area=true&area_color=F0A500&hide_border=false&border_color=F0A500)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Goku-py&bg_color=0D1117&color=00ffc8&line=00ffc8&point=00BFA5&area=true&area_color=00ffc8&hide_border=false&border_color=00ffc8)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -262,27 +279,23 @@ Backend-focused engineer with a security mindset — building production-grade A
 
 ---
 
-## `$ cat current_focus.yaml`
+## `$ cat focus.md`
+
+> *"Building knowledge about system design — LLD & HLD. Making myself a better developer every day. Love to ship software that helps people."*
 
 ```yaml
 learning:
-  - "Application Security deeper dive — OWASP Top 10, Burp Suite workflows"
-  - "FastAPI production patterns and async Python"
-  - "TryHackMe — Jr. Penetration Tester path"
+  - "System Design — Low-Level Design (LLD) & High-Level Design (HLD)"
+  - "Building depth in backend engineering patterns and architecture"
+  - "Becoming a better developer with every project"
 
 building:
-  - "AI Code Mentor — migrating deployment from Railway to Vercel/Koyeb"
-  - "Trading automation tools with Python + TradingView webhooks"
+  - "Software and applications that solve real problems"
+  - "Shipping useful tools that help people"
 
-exploring:
-  - "Competitive CTFs and security research challenges"
-  - "System design patterns for scalable backend APIs"
-
-open_to:
-  - "Backend Engineering Intern"
-  - "Security / AppSec Intern"
-  - "Full-Stack Intern (Python-heavy)"
-  - "Remote or Hyderabad-based roles"
+belief:
+  - "Every line of code should serve someone"
+  - "Ship it, then harden it"
 ```
 
 ---
@@ -291,15 +304,16 @@ open_to:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-F0A500?style=for-the-badge&logo=linkedin&logoColor=0D1117&labelColor=F0A500)](https://linkedin.com/in/pratikbehera21)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-F0A500?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=F0A500)](https://github.com/Goku-py)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00ffc8?style=for-the-badge&logo=linkedin&logoColor=0D1117&labelColor=00ffc8)](https://linkedin.com/in/pratikbehera21)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-00ffc8?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=00ffc8)](https://github.com/Goku-py)
 [![Email](https://img.shields.io/badge/Email-propratik087@gmail.com-00BFA5?style=for-the-badge&logo=gmail&logoColor=0D1117&labelColor=00BFA5)](mailto:propratik087@gmail.com)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-F0A500?style=for-the-badge&logo=tryhackme&logoColor=0D1117&labelColor=F0A500)](https://tryhackme.com)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-00ffc8?style=for-the-badge&logo=tryhackme&logoColor=0D1117&labelColor=00ffc8)](https://tryhackme.com)
 
 <br/>
 
 > *"Build things that break. Fix things that matter. Ship things that last."*
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0D1117&height=80&section=footer&fontColor=F0A500&stroke=F0A500&strokeWidth=1" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0D1117&height=80&section=footer&fontColor=00ffc8&stroke=00ffc8&strokeWidth=1" />
 
 </div>
+
