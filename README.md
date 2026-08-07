@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-Backend Engineer focused on scalable systems, containerized applications, and secure APIs. I build full-stack projects with Python, FastAPI, Flask, React, TypeScript, Docker, PostgreSQL, and CI/CD pipelines.
+FullStack Engineer focused on scalable systems, containerized applications, and secure APIs. I build full-stack projects with Python, FastAPI, Flask, React, TypeScript, Docker, PostgreSQL, and CI/CD pipelines.
 
 🔭 &nbsp;I'm currently working on **AI-powered Code Execution Platform with Docker-based runtime isolation and automated CI/CD workflows**  
 🌱 &nbsp;I'm currently learning **System Design, Distributed Systems, Kubernetes, Go, and Backend Performance Engineering**  
