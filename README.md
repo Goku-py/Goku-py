@@ -1,211 +1,161 @@
-<div align="center">
+<samp>PRATIK BEHERA · SOFTWARE ENGINEER · HYDERABAD, IN</samp>
 
-  <!-- HEADER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=185&section=header&text=Pratik%20—%20Goku-py&fontSize=46&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Backend-obsessed%20Full-Stack%20Engineer%20•%20I%20turn%20latency%20into%20speed&descAlignY=57&descSize=15" alt="header" width="100%" />
+# I turn ideas into systems people can actually use.
 
-  <!-- TYPING -->
-  <a href="https://github.com/Goku-py">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=FF6B35&center=true&vCenter=true&width=940&height=50&lines=Powering+up...+++Scalable+Backends+%7C+Isolated+Runtimes+%7C+Clean+APIs;Past%3A+Kaioken+scripts+→+Now%3A+Super+Saiyan+systems;Currently+training+for+Ultra+Instinct%3A+Distributed+Systems+%26+K8s;Ask+me+about+TCP%2FIP,+Windows+Gaming+Optimization,+Latency" alt="typing" />
-  </a>
+Software Engineer building **AI-powered applications** and **full-stack systems** — LLM-driven learning tools, modern web apps, and small devtools that delete repetitive work. Everything below is deployed, documented, and runnable.
 
-  <!-- BADGES -->
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=Goku-py&label=POWER+LEVEL&color=FF6B35&style=flat-square" alt="profile views" />
-    <img src="https://img.shields.io/github/followers/Goku-py?label=Followers&style=flat-square&color=2ea043" alt="followers" />
-    <img src="https://img.shields.io/badge/FOCUS-Backend_%2B_AI_Infra-FF6B35?style=flat-square&logo=fastapi&logoColor=white" alt="focus" />
-    <img src="https://img.shields.io/badge/STATUS-Open_to_collab-2ea043?style=flat-square&logo=github&logoColor=white" alt="status" />
-  </p>
+[![GitHub](https://img.shields.io/badge/GitHub-Goku--py-181717?style=flat-square&logo=github)](https://github.com/Goku-py)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pratikbehera21-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/pratikbehera21/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-pratikworks-58A6FF?style=flat-square&logo=googlechrome&logoColor=white)](https://pratikworks.vercel.app)
+[![Résumé](https://img.shields.io/badge/Résumé-pdf-6E7681?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1ymBVxw7OB2VjRiaw2UM2-zyputM6X8ye/view?pli=1)
+[![Email](https://img.shields.io/badge/Email-propratik087-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:propratik087@gmail.com)
 
-  <p><i>"I don't just build apps that work — I build systems that survive traffic, restarts, and Monday mornings."</i></p>
+```bash
+$ whoami
+pratik-behera · software engineer · hyderabad, india (utc+5:30)
 
-</div>
+$ ./focus --now
+ai-powered apps · full-stack systems · devtools that kill repetition
 
----
-
-### ⚡ `whoami.py`
-
-```python
-class Pratik aka Goku_py:
-    role = "Full-Stack Engineer (Backend-leaning)"
-    core = ["Python", "FastAPI", "TypeScript", "PostgreSQL", "Docker"]
-    obsessions = ["low latency", "clean APIs", "container isolation", "CI/CD that just works"]
-    side_quests = ["Windows optimization for gaming", "TCP/IP + networking", "system latency tuning"]
-    philosophy = "Ship fast. Measure everything. Automate the boring parts."
-
-    def currently(self):
-        return "Building an AI Code Execution Platform with Docker-isolated runtimes"
-
-    def training_arc(self):
-        return ["System Design", "Distributed Systems", "Kubernetes", "Go", "Backend Perf"]
-
-me = Pratik()
-print(me.currently())
+$ ./status
+building in public → deepening backend craft → shipping live demos
 ```
 
 ---
 
-### 🐉 Current Saga — What I'm Powering Up
+### 01 · What I build
 
-| 🔥 Training | 🎯 Goal |
-|---|---|
-| 🛠️ **AI Code Execution Platform** | Docker-isolated runtimes + automated CI/CD — safe, scalable code execution |
-| 📚 **System Design + Distributed Systems** | From single-container apps → fault-tolerant, horizontally scalable systems |
-| ☸️ **Kubernetes + Go** | Orchestration + a language built for concurrency |
-| 🤝 **Open for collabs** | Backend infra, devtools, AI engineering, system architecture |
+| Track | What it looks like | Proof |
+|---|---|---|
+| **AI-powered apps** | LLM integrations that do a real job — execute code, explain errors, guide instead of spoiling | [AI-Mentor](#-02--selected-work) — Flask + Gemini, Docker-isolated execution, live on Railway |
+| **Full-stack systems** | Typed frontends on real databases — auth, validation, tests, CI | [SpecWise](#-02--selected-work) — Next.js + Prisma/Postgres, Vitest + Playwright, live on Vercel |
+| **Tools & automation** | Small, sharp utilities for networking and offline workflows | [Port-Scanner-GUI](#-02--selected-work) · [Portable-AI](#-02--selected-work) |
 
-> Fun fact: I love building devtools that delete repetitive work. If I do it twice, I automate it the third time.
-
----
-
-### 🧰 Tech Arsenal — Not Just Badges, Weapons
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,js,c,bash,go&theme=dark" alt="languages" /><br/>
-  <sub><b>Languages:</b> Python • TypeScript • JavaScript • C • Bash • Go (training)</sub>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,graphql,react,nextjs,vue,tailwind,vite&theme=dark" alt="web" /><br/>
-  <sub><b>Backend + Frontend:</b> FastAPI • Flask • Node.js • GraphQL • React • Next.js • Vue • Tailwind • Vite</sub>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,supabase,prisma&theme=dark" alt="data" /><br/>
-  <sub><b>Data:</b> PostgreSQL • MySQL • MongoDB • Redis • SQLite • Supabase • Prisma</sub>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,numpy,pandas&theme=dark" alt="ai" /><br/>
-  <sub><b>AI / ML:</b> PyTorch • TensorFlow • NumPy • pandas</sub>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,vercel,netlify,linux,git,vscode&theme=dark" alt="infra" /><br/>
-  <sub><b>Infra + Tools:</b> Docker • Kubernetes • GitHub Actions • Vercel • Netlify • Linux • Git • VS Code</sub>
-</p>
+I don't do tutorial clones. If a repo can't run, deploy, or teach something, it doesn't make the profile.
 
 ---
 
-### ⭐ Dragon Balls — Featured Builds (collect all 6)
-
-> Each project = one star. Together they summon a pretty decent engineer.
+### 02 · Selected work
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**① AI-Mentor — AI-powered learning platform**
-<br/>Full-stack AI mentor app, deployed and live.
-<br/><br/>`Python` `AI` `Backend` `Railway`
-<br/>🔗 [Repo](https://github.com/Goku-py/AI-Mentor) • 🌐 [Live Demo](https://ai-mentor.up.railway.app/)
-
-</td>
-<td width="50%">
-
-**② SpecWise — Spec to product, wisely**
-<br/>TypeScript app for turning specs into structured output.
-<br/><br/>`TypeScript` `Next.js` `Vercel`
-<br/>🔗 [Repo](https://github.com/Goku-py/SpecWise) • 🌐 [Live](https://spec-wise-three.vercel.app)
+**AI-Mentor** — a coding tutor that hints, never spoils
+<br/>Beginners stare at raw tracebacks; this runs their code in isolated containers and has Gemini explain the bug with a one-line hint.
+<br/><br/>`React` `TypeScript` `Flask` `PostgreSQL` `Docker` `Redis` `Gemini`
+<br/>[Code](https://github.com/Goku-py/AI-Mentor) · [Live demo](https://ai-mentor.up.railway.app/)
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**③ Port-Scanner-GUI — Networking in a window**
-<br/>Fast, lightweight Tkinter TCP port scanner with live progress + export.
-<br/><br/>`Python` `TCP/IP` `Tkinter`
-<br/>🔗 [Repo](https://github.com/Goku-py/Port-Scanner-GUI)
-
-</td>
-<td width="50%">
-
-**④ Portable-AI — AI on a pendrive, no internet**
-<br/>Offline-first portable AI experiment. Plug in, run, no cloud needed.
-<br/><br/>`Batch` `Offline-AI` `Systems`
-<br/>🔗 [Repo](https://github.com/Goku-py/Portable-AI)
+**SpecWise** — specs in, structured product output out
+<br/>Unstructured spec docs slow teams down; this validates and structures them through a typed Next.js + Postgres pipeline.
+<br/><br/>`Next.js` `TypeScript` `Prisma` `PostgreSQL` `Tailwind` `Zod`
+<br/>[Code](https://github.com/Goku-py/SpecWise) · [Live demo](https://spec-wise-three.vercel.app)
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**⑤ Portfolio — pratikworks**
-<br/>My personal portfolio — where design meets backend brain.
-<br/><br/>`TypeScript` `React` `Vercel`
-<br/>🔗 [Repo](https://github.com/Goku-py/Portfolio) • 🌐 [pratikworks.vercel.app](https://pratikworks.vercel.app)
+**Port-Scanner-GUI** — TCP scanning for humans
+<br/>CLI scanners intimidate newcomers; this is a threaded scanner with live progress and export in a clean window.
+<br/><br/>`Python` `Tkinter` `Sockets`
+<br/>[Code](https://github.com/Goku-py/Port-Scanner-GUI)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**⑥ 8icon — Gen-Z e-commerce**
-<br/>Shopping experience built for the Gen-Z brain: fast, visual, vibe-first.
-<br/><br/>`Full-Stack` `E-commerce`
-<br/>🔗 [Repo](https://github.com/Goku-py/8icon)
+**Portable-AI** — AI on a pendrive, no internet
+<br/>Most AI tooling assumes connectivity; this is an offline-first experiment in carrying your setup with you.
+<br/><br/>`Batch` `Windows`
+<br/>[Code](https://github.com/Goku-py/Portable-AI)
 
 </td>
 </tr>
 </table>
 
----
-
-### 🥷 What I Do Differently
-
-- **Backend first, UI that respects it** — secure APIs, sane schemas, no N+1 nonsense
-- **Containers or it didn't happen** — if it runs on my machine, it runs in Docker
-- **Latency hunter** — TCP/IP, Windows gaming optimization, system tuning. Slow = bug.
-- **CI/CD > heroics** — pipelines over late-night manual deploys
-
-Ask me about: `Windows Optimization for Gaming` • `Network Protocols (TCP/IP)` • `System Latency`
+Also live: my [portfolio](https://pratikworks.vercel.app) — design work plus everything above in one place.
 
 ---
 
-### 📊 Power Level — Stats
+### 03 · Stack
+
+Only what my repos can prove. Nothing aspirational lives here — that goes in [§05](#-05--learning-log).
+
+| Layer | Tech |
+|---|---|
+| Languages | Python · TypeScript · JavaScript · SQL · Batch / PowerShell |
+| Frontend | React · Next.js · Vite · Tailwind CSS |
+| Backend & APIs | Flask · Node.js · REST · JWT auth · Zod validation |
+| Data | PostgreSQL · SQLite · Redis · Prisma · SQLAlchemy |
+| AI | Gemini API integration · hint-loop prompt design · multi-language code execution sandboxes |
+| Ship & test | Docker · Railway · Vercel · GitHub Actions · pytest · Vitest · Playwright |
+
+---
+
+### 04 · How I work
+
+- **Deploy or it didn't happen.** Every serious project gets a live URL, setup docs, and a one-command start.
+- **Tests are part of the feature.** pytest, Vitest, Playwright — whichever fits the stack.
+- **Simple systems first.** Add complexity when measured pain demands it, not before.
+- **Automate the third time.** Twice is coincidence; the third run gets a script or a pipeline.
+- **Docs are for future-me.** READMEs with troubleshooting tables, `.env.example`s, zero tribal knowledge.
+
+---
+
+### 05 · Learning log
+
+An evolving roadmap, not a skill claim:
+
+- [ ] **AI engineering** — RAG, agent loops, and evals for LLM apps (extending the AI-Mentor pattern)
+- [ ] **Backend depth** — system design, caching, queues; from working apps to scalable ones
+- [ ] **Data fluency** — SQL → analytics foundations, so app data becomes decisions
+
+<details>
+<summary><samp>more about me</samp></summary>
+
+<br/>
+
+- Based in **Hyderabad, Telangana, India**. I work across the stack but think like a backend engineer: schemas, contracts, failure modes.
+- Into **TCP/IP and networking fundamentals** — it shows in the tooling I build.
+- I learn by shipping: each repo above taught me something the previous one couldn't (containers, then typed full-stack, then offline constraints).
+- Currently looking to collaborate on **open-source backend infra, devtools, and AI engineering**.
+
+</details>
+
+---
+
+### 06 · Activity
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Goku-py&show_icons=true&theme=midnight-purple&title_color=FF6B35&icon_color=FF6B35&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goku-py&layout=compact&theme=midnight-purple&title_color=FF6B35&icon_color=FF6B35&hide_border=true&bg_color=00000000&langs_count=8" alt="langs" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=Goku-py&theme=midnight-purple&hide_border=true&background=00000000&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35" alt="streak" height="170" />
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Goku-py&theme=dracula&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" alt="trophies" width="100%" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Goku-py&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" alt="GitHub stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goku-py&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9&langs_count=6" alt="Most-used languages" />
 </div>
 
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Goku-py&bg_color=00000000&color=FF6B35&line=FF6B35&point=c9d1d9&area=true&hide_border=true" alt="activity" />
-</div>
-
----
-
-### 🐍 Contribution Dojo
-
+<details>
+<summary><samp>contribution graph</samp></summary>
+<br/>
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Goku-py/Goku-py/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Goku-py/Goku-py/output/github-contribution-grid-snake.svg" />
-    <img alt="snake" src="https://raw.githubusercontent.com/Goku-py/Goku-py/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Goku-py/Goku-py/output/github-contribution-grid-snake-dark.svg" />
   </picture>
-  <sub>Snake animation needs the <a href="https://github.com/Platane/snk">Platane/snk</a> workflow — optional, looks sick though.</sub>
 </div>
+</details>
 
 ---
 
-### 🔗 Connect — Send a Senzu Bean (or a job)
+### 07 · Contact
 
-<p align="left">
-  <a href="https://pratikworks.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white" alt="portfolio" /></a>
-  <a href="mailto:propratik087@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
-  <a href="https://github.com/Goku-py"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
-</p>
+**Have something worth building?** I like practical problems, small teams, and repos with a roadmap.
 
-> Currently looking to collaborate on **open-source backend infra, devtools, AI engineering, and system architecture**.  
-> Need help with? **Distributed systems, K8s, cloud infra, large-scale backend.** Let's spar.
+- GitHub: [Goku-py](https://github.com/Goku-py)
+- LinkedIn: [pratikbehera21](https://www.linkedin.com/in/pratikbehera21/)
+- Portfolio: [pratikworks.vercel.app](https://pratikworks.vercel.app)
+- Résumé: [pdf on Drive](https://drive.google.com/file/d/1ymBVxw7OB2VjRiaw2UM2-zyputM6X8ye/view?pli=1)
+- Email: [propratik087@gmail.com](mailto:propratik087@gmail.com)
 
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="quote" />
-  <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer&text=KAMEHAMEHA!&fontSize=22&fontColor=fff&animation=twinkling&fontAlignY=45" width="100%" alt="footer" />
-  <sub>⭐ From <a href="https://github.com/Goku-py">Goku-py</a> — powered up with caffeine and containers</sub>
-</div>
+<sub>Hand-built, kept current. No templates, no stat walls, no claims my repos can't back up.</sub>
