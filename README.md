@@ -130,9 +130,14 @@ An evolving roadmap, not a skill claim:
 ### 06 · Activity
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Goku-py&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" alt="GitHub stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goku-py&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9&langs_count=6" alt="Most-used languages" />
+  <img height="150" src="https://streak-stats.demolab.com?user=Goku-py&hide_border=true&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="Contribution streak" />
 </div>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Goku-py?style=flat-square&label=followers" alt="followers" />
+  <img src="https://img.shields.io/github/stars/Goku-py?style=flat-square&affiliations=OWNER&label=stars" alt="stars earned" />
+  <img src="https://komarev.com/ghpvc/?username=Goku-py&style=flat-square&label=profile+views" alt="profile views" />
+</p>
 
 <details>
 <summary><samp>contribution graph</samp></summary>
