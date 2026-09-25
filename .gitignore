@@ -1,0 +1,28 @@
+﻿# Operating-system files
+.DS_Store
+Thumbs.db
+
+# Editor and IDE files
+.vscode/
+.idea/
+
+# Local environment files
+.env
+.env.*
+!.env.example
+
+# Node.js
+node_modules/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local design-review artifacts
+.impeccable/review/
+.playwright-mcp/
+
+# Logs
+*.log
